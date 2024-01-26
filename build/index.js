@@ -10,5 +10,5 @@ const express_1 = __importDefault(require("express"));
 const app = (0, express_1.default)();
 app.listen(3000, () => {
     console.log('Server on port', 3000);
-    console.log('Prueba');
+    
 });
